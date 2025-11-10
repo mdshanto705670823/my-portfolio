@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "@tailwindcss/vite": "^4.1.17",
     "animate.css": "^4.1.1",
