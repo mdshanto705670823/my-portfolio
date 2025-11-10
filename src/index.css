@@ -1,0 +1,15 @@
+@charset "UTF-8";
+@font-face {
+  font-family: manrope;
+  src: url("../src/assets/fonts/Manrope-Regular.ttf");
+}
+@import "tailwindcss";
+@import "animate.css";
+@plugin "daisyui";
+
+:root {
+  --font-fam: "Manrope", sans-serif;
+}
+@theme {
+  --font-fam: "Manrope", sans-serif;
+}
